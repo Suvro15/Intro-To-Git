@@ -5,4 +5,4 @@ All Files and directories remain here
 Selected files are added to the Staging area
 
 #Repository (using git commit -m "Commit comments")
-Where all snapshots are stored
+Where all snapshots are stored.
